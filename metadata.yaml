@@ -1,0 +1,48 @@
+_repo: The-Orange-Fairy-Book_36532
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: archival
+  image_path: 36532-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2011-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: The story of the hero Makóma -- The magic mirror -- Story of the
+  king who would see Paradise -- How Isuro the Rabbit tricked Gudu -- Ian, the soldier's
+  son -- The fox and the wolf -- How Ian Direach got the blue falcon -- The ugly duckling
+  -- The two caskets -- The goldsmith's fortune -- The enchanted wreath -- The foolish
+  weaver -- The clever cat -- The story of Manus -- Pinkel the thief -- The adventures
+  of a jackal -- The adventures of the jackal's eldest son -- The adventures of the
+  younger son of the jackal -- Three treasures of the giants -- The rover of the plain
+  -- The white doe -- The girl-fish -- The owl and the eagle -- The frog and the Lion
+  Fairy -- The adventures of Covan the Brown-haired -- The Princess Bella-Flor --
+  The bird of truth -- The mink and the wolf -- Adventures of an Indian brave -- How
+  the Stalos were tricked -- Andras Baive -- The white slipper -- The magic book.
+title: The Orange Fairy Book
+url: http://www.gutenberg.org/ebooks/36532
